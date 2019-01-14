@@ -1,0 +1,11 @@
+C:\Users\hyunuk\source\repos\C#\Task Projects\DirectoryProject\DirectoryProject\bin\Debug\DirectoryProject.exe.config
+C:\Users\hyunuk\source\repos\C#\Task Projects\DirectoryProject\DirectoryProject\bin\Debug\DirectoryProject.exe
+C:\Users\hyunuk\source\repos\C#\Task Projects\DirectoryProject\DirectoryProject\bin\Debug\DirectoryProject.pdb
+C:\Users\hyunuk\source\repos\C#\Task Projects\DirectoryProject\DirectoryProject\obj\Debug\DirectoryProject.csprojResolveAssemblyReference.cache
+C:\Users\hyunuk\source\repos\C#\Task Projects\DirectoryProject\DirectoryProject\obj\Debug\DirectoryProject.Form1.resources
+C:\Users\hyunuk\source\repos\C#\Task Projects\DirectoryProject\DirectoryProject\obj\Debug\DirectoryProject.Properties.Resources.resources
+C:\Users\hyunuk\source\repos\C#\Task Projects\DirectoryProject\DirectoryProject\obj\Debug\DirectoryProject.csproj.GenerateResource.Cache
+C:\Users\hyunuk\source\repos\C#\Task Projects\DirectoryProject\DirectoryProject\obj\Debug\DirectoryProject.csproj.CoreCompileInputs.cache
+C:\Users\hyunuk\source\repos\C#\Task Projects\DirectoryProject\DirectoryProject\obj\Debug\DirectoryProject.exe
+C:\Users\hyunuk\source\repos\C#\Task Projects\DirectoryProject\DirectoryProject\obj\Debug\DirectoryProject.pdb
+C:\Users\hyunuk\source\repos\C#\Task Projects\DirectoryProject\DirectoryProject\obj\Debug\DirectoryProject.Form2.resources
